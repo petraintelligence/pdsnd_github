@@ -42,7 +42,7 @@ def get_filters():
     while True:
         while True:
             city_input = str(
-                input("What city would you like to analyze:{}? ".format(cities)).title())
+                input("What city would you like to analyze friend:{}? ".format(cities)).title())
             if city_input in cities:
                 city_final = city_input.lower()
                 city = CITY_DATA[city_final]
