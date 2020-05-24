@@ -1,5 +1,5 @@
 ### Created- 5/24/2020
-Include the date you created this project and README file.
+
 
 ### Git- BikeshareUpdates
 
