@@ -13,5 +13,4 @@ Allows users to analyze bikeshare data in three different cities. Users may choo
 - washington.csv
 
 ### Credits
-N/A
-
+Udacity
