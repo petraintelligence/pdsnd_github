@@ -76,7 +76,8 @@ def get_filters():
         print("You chose the following filters: {}, {}, {}. ".format(
             city_final.title(), month_input.title(), day_input.title()))
         print('-'*40)
-        correct_response = str(input("Is this correct (yes/no)? ").lower())
+        correct_response = str(
+            input("Are these filters correct (yes/no)? ").lower())
         if correct_response == "yes":
             break
 
