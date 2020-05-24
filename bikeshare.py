@@ -47,7 +47,7 @@ def get_filters():
                 city_final = city_input.lower()
                 city = CITY_DATA[city_final]
                 break
-            print("Please choose a city from the list ")
+            print("Please choose one of the three cities from the list ")
 
     # TO DO: get user input for month (all, january, february, ... , june)
         while True:
