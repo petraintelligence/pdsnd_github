@@ -1,15 +1,17 @@
-### Date created
+### Created- 5/24/2020
 Include the date you created this project and README file.
 
-### Project Title
+### Git- BikeshareUpdates
 Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+### Analyze bikeshare data
+Allows users to analyze bikeshare data in three different cities
 
 ### Files used
-Include the files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+N/A
 
