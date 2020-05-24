@@ -5,7 +5,7 @@
 
 
 ### Analyze bikeshare data
-Allows users to analyze bikeshare data in three different cities. Users may choose to analyze all three cities at once.
+Allows users to analyze bikeshare data in three different cities. Users may choose to analyze all three cities at once. Each city has different data available for analysis.
 
 ### Files used
 - chicago.csv
